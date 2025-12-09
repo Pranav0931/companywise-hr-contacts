@@ -1,27 +1,28 @@
-## 📂 Download All Internship, Interview & HR Files
+## 📂 View All Internship, Interview & HR Files
 
 I have uploaded all important documents in this repository.  
-Click any file below — it will open the file page directly.  
-Then press **Download raw file**.
+Click any file below — it will open directly in Google Sheets / PDF viewer.  
+No download required.
 
 ### 📁 Available Files in This Repo  
-Click to open & download:
+Click to open:
 
 - **📘 Internship Calendar 2026**  
-  👉 [internship calander 2026.xlsx](https://github.com/Pranav0931/internship-interview-2000HRs/blob/main/internship%20calander%202026.xlsx)
+  👉 https://docs.google.com/spreadsheets/d/1tZg4gYNT8DL3TEUw7yMmG0MaGAwMc4xNViqsrjIGBEo/edit?usp=sharing
 
 - **📚 Top Companies Interview Resources**  
-  👉 [Top companies ke interview resources.xlsx](https://github.com/Pranav0931/internship-interview-2000HRs/blob/main/Top%20companies%20ke%20interview%20resources.xlsx)
+  👉 https://docs.google.com/spreadsheets/d/19veJ9b4Mblj8nIxmckHLXV2PnN9KRf31HBQMN0r4rPE/edit?usp=sharing
 
 - **📧 2000+ HR Contact List (PDF)**  
-  👉 [CompanyWise HR contact .pdf](https://github.com/Pranav0931/internship-interview-2000HRs/blob/main/CompanyWise%20HR%20contact%20.pdf)
+  👉 https://github.com/Pranav0931/internship-interview-2000HRs/blob/main/CompanyWise%20HR%20contact%20.pdf
 
 ### 🔽 How to Download  
-1. Kisi bhi file link par click karo  
-2. File page open hoga  
-3. Top-right me **Download raw file** ka button dikhega  
+1. Kisi bhi link par click karo  
+2. Google Sheet ya PDF viewer open hoga  
+3. Top-right me **Download** ka option dikhega  
 4. Click → File download ho jayegi
 
 ---
 
 > 💡 Tip: Repo clone karke saare files ek saath bhi mil jayenge:
+git clone https://github.com/Pranav0931/internship-interview-2000HRs
